@@ -1,0 +1,19 @@
+{
+  "name": "nav",
+  "version": "1.0.0",
+  "description": "Photo-port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniiI7/photo-port.git"
+  },
+  "author": "EI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniiI7/photo-port/issues"
+  },
+  "homepage": "https://github.com/EvgeniiI7/photo-port#readme"
+}
